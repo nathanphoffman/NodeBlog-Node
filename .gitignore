@@ -44,3 +44,6 @@ Temporary Items
 
 # Ignore node files
 node_modules
+
+# confidential auth file
+config/config.js
